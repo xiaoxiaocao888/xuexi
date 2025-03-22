@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 学习笔记
 
 #### 介绍
@@ -38,5 +39,7 @@
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
 =======
 # xuexi
+=======
+>>>>>>> 9ef7dedab0799cb17d155bedf5fbc25a51898d0a
 学习笔记
 >>>>>>> 0655b67cdbddf69440c3256e6fd607d8c17073c3
