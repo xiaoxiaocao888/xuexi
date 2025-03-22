@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b8e649b2ca891e6",
+        "id": "da2da5525ab42f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "1ea883e5111b17a2",
+            "id": "75b3bfa743472739",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "中文",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/git/创建仓库.md",
+                "file": "学习/Flask/05ORM模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "创建仓库 的反向链接列表"
+              "title": "05ORM模型 的反向链接列表"
             }
           },
           {
@@ -163,16 +164,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1ea883e5111b17a2",
+  "active": "75b3bfa743472739",
   "lastOpenFiles": [
-    "Pasted image 20250115183845.png",
     "学习/git/git命令2.md",
-    "学习/git/将本地仓库学习笔记上传.md",
-    "README.md",
-    "README.en.md",
-    "学习/git/git命令.md",
-    "学习/git/IDEA集成.md",
     "学习/git/git与远程仓库github gitee.md",
-    "学习/git/创建仓库.md"
+    "学习/git/GitLab软件.md",
+    "学习/git/IDEA集成.md",
+    "学习/git/git命令.md",
+    "学习/git/下载git及工具.md",
+    "学习/git/将本地仓库学习笔记上传.md",
+    "开源项目.md",
+    "学习/爬虫/24疑问点.md",
+    "学习/爬虫/23selenium的Xpath.md",
+    "学习/爬虫/22实战技巧.md",
+    "学习/爬虫/21选择框.md",
+    "学习/爬虫/20frame切换or窗口切换.md",
+    "学习/爬虫/19 css选择器.md",
+    "学习/爬虫/18 selenium的使用.md",
+    "学习/爬虫/17selenium环境搭建.md",
+    "学习/爬虫/16视频网站工作原理.md",
+    "学习/爬虫/15使用协程下载西游记.md",
+    "学习/爬虫/14aiohttp.md",
+    "学习/爬虫/13协程.md",
+    "学习/爬虫/12多线程爬取新发地.md",
+    "学习/爬虫/11多线程与多进程.md",
+    "学习/爬虫/10爬取网易云评论.md",
+    "学习/爬虫/09代理.md",
+    "学习/爬虫/08防盗链爬取梨视频.md",
+    "学习/爬虫/07处理cookie登录.md",
+    "Pasted image 20250321162944.png",
+    "Pasted image 20250321075840.png",
+    "Pasted image 20250319203441.png",
+    "Pasted image 20250316222133.png",
+    "Pasted image 20250316113801.png",
+    "Pasted image 20250316103235.png",
+    "Pasted image 20250316101816.png",
+    "Pasted image 20250315203746.png",
+    "Pasted image 20250315203734.png",
+    "Pasted image 20250315200852.png",
+    "学习/未命名",
+    "学习/蓝桥杯",
+    "学习/django仿csdn前后端不分离/照片",
+    "学习/django仿csdn前后端不分离",
+    "学习/Django",
+    "学习/Flask",
+    "未命名",
+    "FastApi/照片",
+    "FastApi"
   ]
 }
