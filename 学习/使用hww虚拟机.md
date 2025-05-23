@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hadoop100虚拟机，密码000000
 
 ##### 安装的软件有
@@ -6,10 +7,13 @@ kafka_2.11-0.10.2.0.                spark-3.4.0-bin-without-hadoop
 mysql-connector-java-5.1.40     
 在pyspark环境下，安装了flask   flask-socketio  kafka-python   pyarrow flask-login werkzeug
 
+=======
+>>>>>>> 6cbad1b6ead4534cd6d01757fb15acc07912bcd0
 启动pycharm
 ```
 cd /usr/local/pycharm
 ./bin/pycharm.sh
+<<<<<<< HEAD
 ```
 
 查看虚拟环境的那些下载路径
@@ -40,3 +44,6 @@ ls -l /usr/local/spark/jars | grep "spark-streaming"
 ![[Pasted image 20250513224923.png]]
 我们这里只有一个这个文档是因为，现在已经把它们合并成一个东西。
 我们这里是已经弄好了spark开发kafka环境了的
+=======
+```
+>>>>>>> 6cbad1b6ead4534cd6d01757fb15acc07912bcd0

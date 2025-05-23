@@ -52,8 +52,12 @@ wd.implicitly_wait(10)
 from time import sleep
 sleep(1)
 ```
+<<<<<<< HEAD
 对于打开新链接新窗口，我们要使用显示等待
 ![[Pasted image 20250326211122.png]]
+=======
+
+>>>>>>> 6cbad1b6ead4534cd6d01757fb15acc07912bcd0
 ###### 清除掉已经输入的内容
 ```python
 element.clear()
