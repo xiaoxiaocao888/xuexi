@@ -78,7 +78,7 @@ print(totp.now())
 ```
 [pypi]
 username = __token__
-password =
+password =xxx
 ```
 ![[Pasted image 20250522181235.png]]
 显示这个错误可能是项目名和其他人上传者重复了，我们去项目mcp-client目录下的pyproject.toml修改里面的name值为mcp-weather-http-lqh
