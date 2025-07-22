@@ -186,3 +186,25 @@ if __name__ == "__main__":
     import sys
     asyncio.run(main())
 ```
+
+##### 用于自动调用外部工具的对话工具
+```Python
+def chat_base(messages):
+    response = client.chat.completions.create(
+        model="deepseek-reasoner",  
+        messages=messages,
+        tools=tools,
+    )
+
+    if response.choices[0].finish_reason == "tool_calls":
+        while True:
+            messages = create_function_response_messages(messages, response)
+            response = client.chat.completions.create(
+                model="deepseek-reasoner",  
+                messages=messages,
+                tools=tools,
+            )
+            if response.choices[0].finish_reason != "tool_calls":
+                break
+    return response
+```

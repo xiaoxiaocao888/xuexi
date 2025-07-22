@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a426246a9010a093",
+        "id": "69bc95604f43b80a",
         "type": "tabs",
         "children": [
           {
-            "id": "ea3ff9df2d90c79d",
+            "id": "88208cd06b1a3721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/版本号.md",
+                "file": "git/将本地仓库学习笔记上传.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "版本号"
+              "title": "将本地仓库学习笔记上传"
+            }
+          },
+          {
+            "id": "e800235a139afc02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型微调/大模型训练范式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大模型训练范式"
             }
           }
         ]
@@ -40,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "查看日志",
+                "query": "11434",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "a605b019b8ee325f",
@@ -162,54 +178,54 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "69da54460e38fd31",
+  "active": "88208cd06b1a3721",
   "lastOpenFiles": [
-    "python/图片/Pasted image 20241025094631.png",
-    "git/GitLab软件.md",
-    "Pasted image 20250114224604.png",
-    "git/git命令2.md",
-    "Pasted image 20250114221800.png",
-    "Pasted image 20250114221224.png",
-    "Pasted image 20250114221100.png",
-    "Pasted image 20250114215656.png",
-    "Pasted image 20250114214947.png",
-    "Pasted image 20250114214256.png",
-    "Pasted image 20250114212612.png",
-    "Pasted image 20250114204740.png",
-    "Pasted image 20250114204049.png",
-    "git/git命令.md",
-    "git/IDEA集成.md",
-    "git/git与远程仓库github gitee.md",
-    "git/下载git及工具.md",
-    "git/未命名.md",
-    "git/创建仓库.md",
-    "git/版本号.md",
-    "git/分支.md",
-    "Docker/背景与基本知识.md",
-    "git",
-    "Docker/yum的下载.md",
-    "Docker/Redis集群部署实践.md",
-    "Docker/Dockerfile.md",
-    "Docker/Docker网络.md",
-    "Docker/实战Tomcat镜像.md",
-    "Docker/容器数据卷.md",
-    "Docker/容器命令.md",
-    "Docker/容器互联-.md",
-    "Docker/可视化.md",
-    "Docker/镜像讲解.md",
-    "Docker/发布镜像.md",
-    "Docker/常用其他命令.md",
-    "Docker/常用命令小结.md",
-    "Docker/安装Docker.md",
-    "爬虫/豆瓣电影数据.xlsx",
-    "使用vscode/图片",
-    "使用vscode/新建文件夹",
-    "python/图片",
-    "python/新建文件夹",
-    "hadoop操作命令/图片/Pasted image 20241101122437.png (4).lnk",
-    "hadoop操作命令/图片/Pasted image 20241101122437.png (3).lnk",
-    "hadoop操作命令/图片/Pasted image 20241105084531.png.lnk",
-    "hadoop操作命令/图片/Pasted image 20241105084531.png (3).lnk",
+    "大模型面试补充知识点.md",
+    "LangChain/15LangGraph Cli打造智能数据分析助手.md",
+    "LangChain/12langGraph基本知识.md",
+    "爬虫/05 bs4.md",
+    "爬虫/06 xpath.md",
+    "爬虫/10爬取网易云评论.md",
+    "爬虫/09代理.md",
+    "爬虫/08防盗链爬取梨视频.md",
+    "爬虫/07处理cookie登录.md",
+    "爬虫/04 屠戮盗版天堂电影信息.md",
+    "爬虫/03 re正则表达式.md",
+    "爬虫/02请求方法.md",
+    "爬虫/01基本了解.md",
+    "爬虫/14aiohttp.md",
+    "大模型微调/大模型训练范式.md",
+    "大模型微调/17训练微调过程总结.md",
+    "大模型微调/16qwen重新进行训练.md",
+    "大模型微调/15qwenSFT微调结果.md",
+    "大模型微调/14qwen SFT微调生成JSON结构.md",
+    "大模型微调/13transformer2.md",
+    "大模型微调/12transformer.md",
+    "总结模型智能体.md",
+    "MCP/10qwen-agent.md",
+    "MCP/09qwen3.md",
+    "MCP/01外部函数.md",
+    "MCP/13Multi-MCP Agent多轮对话.md",
+    "总结模型智能体",
+    "LangChain/照片/Pasted image 20250710151815.png",
+    "LangChain/照片/Pasted image 20250710112112.png",
+    "LangChain/照片/Pasted image 20250715143824.png",
+    "LangChain/照片/Pasted image 20250715134342.png",
+    "LangChain/照片/Pasted image 20250715134149.png",
+    "LangChain/照片/Pasted image 20250715130108.png",
+    "LangChain/照片/Pasted image 20250715125629.png",
+    "LangChain/照片/Pasted image 20250714222053.png",
+    "LangChain/照片/Pasted image 20250714145555.png",
+    "LangChain/照片/Pasted image 20250714145440.png",
+    "qwen3 embedding/照片",
+    "qwen3 embedding/新建文件夹",
+    "LangChain/照片",
+    "LangChain/新建文件夹",
+    "图像分类/照片",
+    "图像分类/新建文件夹",
+    "LangChain",
+    "qwen3 embedding",
+    "分布式数据库",
     "Octave/画图/未命名.canvas"
   ]
 }

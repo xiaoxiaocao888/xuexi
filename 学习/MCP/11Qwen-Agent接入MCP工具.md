@@ -1,5 +1,5 @@
 Assistant类中的function_list参数可以通过tool_use的方式传入MCP格式的调用示例，就像定义Function Calling的 JsonSchema 一样。其中 MCP 调用格式如下所示：
-要把MCP工具封装成tools对象。sqlite就是MCP工具。uvx指的是python项目从pip上下载
+要把MCP工具封装成tools对象。sqlite就是MCP工具。uvx指的是python项目从pip上下载。(如果是由js编写的就使用npx)
 ```Python
 tools = [{
     "mcpServers": {
